@@ -1,8 +1,6 @@
 # Generative-Vidéo-Surveillance
 
-## Projet S7 Pra – Analyse vidéo augmentée par IA générative
-
-**Projet S7 Pra** a pour ambition d’explorer les solutions existantes d’analyse vidéo et d’évaluer les gains offerts par l’IA générative. Sur la base de ces travaux préliminaires, l’objectif est de développer un modèle d’IA dédié à l’analyse vidéo capable de :
+Le projet a pour ambition d’explorer les solutions existantes d’analyse vidéo et d’évaluer les gains offerts par l’IA générative. Sur la base de ces travaux préliminaires, l’objectif est de développer un modèle d’IA dédié à l’analyse vidéo capable de :
 
 1. **Renforcer la détection d’anomalies**  
    Détecter plus finement les événements atypiques (intrusions, comportements inhabituels) grâce à l’apport de réseaux génératifs pour modéliser le « normal ».
